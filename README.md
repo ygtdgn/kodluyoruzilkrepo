@@ -4,7 +4,9 @@
 ![Github Gorsel](/ss.png)
 # Installation
 Öncelikle projeyi clonelayın. 
-```git clone https://github.com/ygtdgn/kodluyoruzilkrepo```
+```
+git clone https://github.com/ygtdgn/kodluyoruzilkrepo
+```
 
 # Usage 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
